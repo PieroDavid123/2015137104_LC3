@@ -1,0 +1,14 @@
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\2015137104.Entities.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineasENtregables\2015137104\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineasENtregables\2015137104\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineasENtregables\2015137104\LineaTelefonica.Entities\obj\Debug\2015137104.Entities.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineasENtregables\2015137104\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineasENtregables\2015137104\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb
